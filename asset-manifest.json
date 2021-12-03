@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-agenda/static/css/main.958a77a7.chunk.css",
+    "main.js": "/monsters-agenda/static/js/main.09f436db.chunk.js",
+    "main.js.map": "/monsters-agenda/static/js/main.09f436db.chunk.js.map",
+    "runtime-main.js": "/monsters-agenda/static/js/runtime-main.9c2aa263.js",
+    "runtime-main.js.map": "/monsters-agenda/static/js/runtime-main.9c2aa263.js.map",
+    "static/js/2.66e756f3.chunk.js": "/monsters-agenda/static/js/2.66e756f3.chunk.js",
+    "static/js/2.66e756f3.chunk.js.map": "/monsters-agenda/static/js/2.66e756f3.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/monsters-agenda/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/monsters-agenda/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/monsters-agenda/index.html",
+    "static/css/main.958a77a7.chunk.css.map": "/monsters-agenda/static/css/main.958a77a7.chunk.css.map",
+    "static/js/2.66e756f3.chunk.js.LICENSE.txt": "/monsters-agenda/static/js/2.66e756f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c2aa263.js",
+    "static/js/2.66e756f3.chunk.js",
+    "static/css/main.958a77a7.chunk.css",
+    "static/js/main.09f436db.chunk.js"
+  ]
+}
